@@ -102,7 +102,7 @@ npx prettier --write .
 ```
 
 ## 📁 Folder Structure
-
+```
 src/
 │
 ├── controllers/
@@ -116,6 +116,7 @@ src/
 ├── types/
 │   └── holiday.ts
 ├── app.ts
+```
 📝 Notes
 
 Make sure MongoDB is running locally or provide a cloud URI.
